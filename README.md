@@ -1,7 +1,7 @@
-#Wellcome to Kangsik's Repo
+# Wellcome to Kangsik's Repo
 
-##Group Number
+## Group Number
 Group1
 
-##Student ID
+## Student ID
 21500593
